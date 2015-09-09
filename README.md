@@ -35,13 +35,6 @@ Only one team member needs to fork this repository.
 ## The Readings
 Here are the readings, in their recommended (but certainly not required!) order.
 
-Each reading also describes how to cite it. For example, if you are going to
-cite the Steele paper in your responses, you might write something like:
-
- > "Domain-specific languages are the best thing ever, except for taking a class
- > *about* domain-specific languages, which is better than riding unicorns" 
- > [Steele, 1998]. 
-
    1. [_Growing a Language_][GrowPDF] by Guy Steele
       + cite as: [Steele, 1998]
       + This one starts out a little weird, but hang with it. 
@@ -63,6 +56,13 @@ cite the Steele paper in your responses, you might write something like:
 *These two papers belong to the Association for Computing Machinery's digital
 library. You should be able to access them from any computer on the Claremont
 Colleges' network. If you have trouble accessing, please post on Piazza.
+
+Each reading also describes how to cite it. For example, if you are going to
+cite the Steele paper in your responses, you might write something like:
+
+ > "Domain-specific languages are the best thing ever, except for taking a class
+ > *about* domain-specific languages, which is better than riding unicorns" 
+ > [Steele, 1998]. 
 
 ## The Responses
 
