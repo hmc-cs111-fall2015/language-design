@@ -18,7 +18,7 @@ In this assignment, we'll focus language design. The goals are to:
    + challenge your currently held beliefs about programmers and programming 
    languages
    + identify good and bad practices for language design
-   + understand more about the benefits and drawbacks of DSLs.
+   + understand more about the benefits and drawbacks of DSLs
 
 To do so, you'll read about language design, then answer some questions, citing
 the readings as evidence.
