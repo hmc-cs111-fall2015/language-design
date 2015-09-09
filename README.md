@@ -53,9 +53,9 @@ Here are the readings, in their recommended (but certainly not required!) order.
       + cite as: [Mernik _et al._, 2005]
       + Just read sections 1 and 2 (and you can skip section 2.3).
 
-*These two papers belong to the Association for Computing Machinery's digital
+_*These two papers belong to the Association for Computing Machinery's digital
 library. You should be able to access them from any computer on the Claremont
-Colleges' network. If you have trouble accessing, please post on Piazza.
+Colleges' network. If you have trouble accessing, please post on Piazza._
 
 Each reading also describes how to cite it. For example, if you are going to
 cite the Steele paper in your responses, you might write something like:
