@@ -92,7 +92,7 @@ Although the responses should be clear and cite evidence, they do not need to
 be formal. It's fine to say "Jordan believes *A* because *X*. Napur disagrees
 because *Y*." (where Jordan and Napur are the two people writing the response).
 
-Here is a suggestion for how to work on this assignment. Following these
+Here are some suggestions for how to work on this assignment. Following these
 suggestions should produce good work; but you will be graded on your work, not
 on whether you followed these suggestions. (In particular, we won't be grading
 based on word count. We'll be grading on whether the work satisfies the criteria
