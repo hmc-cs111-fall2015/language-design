@@ -28,7 +28,7 @@ This assignment requires you to work with one other person. Each of you must
 read the papers and contribute to the ideas and effort of the responses (more
 details below).
 
-**[Fill in this table with each partner's name][Teams]**
+**[Fill in this table with the members of your team][Teams].**
 
 Only one team member needs to fork this repository.
 
