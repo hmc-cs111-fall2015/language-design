@@ -137,7 +137,7 @@ mind? How so?
 
 ## Tasks
 - [ ] Form partners and [record your team on the wiki][Teams].
-- [ ] Read all the things
-- [ ] Write all the responses
-- [ ] Submit your work
-- [ ] Comment on your critique partners' work
+- [ ] Read all the things.
+- [ ] Write all the responses.
+- [ ] Submit your work.
+- [ ] Comment on your critique partners' work.
