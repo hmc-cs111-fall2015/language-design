@@ -88,6 +88,10 @@ by using (and citing) a source outside of the readings.
 Each response will be graded separately. Work that contains all good
 responses plus a couple of great responses will receive an A.
 
+Although the responses should be clear and cite evidence, they do not need to 
+be formal. It's fine to say "Jordan believes *A* because *X*. Napur disagrees
+because *Y*." (where Jordan and Napur are the two people writing the response).
+
 Here is a suggestion for how to work on this assignment. Following these
 suggestions should produce good work; but you will be graded on your work, not
 on whether you followed these suggestions. (In particular, we won't be grading
