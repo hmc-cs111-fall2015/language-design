@@ -4,6 +4,7 @@ corresponding question._
 ---
 
 **Question**
+
 Pick three quotes from the readings about language design. Good candidates 
 are:
 
@@ -21,6 +22,7 @@ For each quote, describe what it was about the quote that led you pick it.
 ---
 
 **Question**
+
 How do the themes of _Growing a Language_ relate to the lab we did this week?
 
 **Response**
@@ -30,6 +32,7 @@ How do the themes of _Growing a Language_ relate to the lab we did this week?
 ---
 
 **Question**
+
 How would you know a well-designed language? What are the symptoms? How would
 you know a poorly designed language? What are the symptoms?
 
@@ -49,6 +52,7 @@ In what way is an API a language?
 ---
 
 **Question**
+
 The comments on the Pavlus article seem to set up a conflict between
 professional programmers and everyone else. What is the essence of this
 conflict? Do you sympathize more with the substance of the article's arguments
@@ -63,6 +67,7 @@ the commenters?
 ---
 
 **Question**
+
 How do implementation choices (e.g., as an interpreter/compiler or as an
 internal DSL) affect the user experience? Can or should we always hide our
 implementation choices from users?
@@ -74,6 +79,7 @@ implementation choices from users?
 ---
 
 **Question**
+
 The Pavlus article mentions the researchers' comments that people preferred
 "natural-language replacements for some of the more abstruse syntax". In other 
 words, people foundit easier to work with code that looks more like a human language (e.g.,
@@ -105,6 +111,7 @@ you do so? If not, why not?
 ---
 
 **Question**
+
 Briefly describe how you split up the work for this assignment.
 
 **Response**
