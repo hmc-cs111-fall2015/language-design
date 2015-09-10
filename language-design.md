@@ -3,12 +3,14 @@ corresponding question._
 
 ---
 
-1. Pick three quotes from the readings about language design. Good candidates 
+Pick three quotes from the readings about language design. Good candidates 
 are:
+
    + Something you agreed with / resonates with your own experience
    + Something you disagree with
    + Something that is interesting, a new idea or perspective you'd like to remember
    + Something you didn't understand
+
 For each quote, describe what it was about the quote that led you pick it.
 
 **Response**
@@ -17,7 +19,7 @@ For each quote, describe what it was about the quote that led you pick it.
 
 ---
 
-2. How do the themes of _Growing a Language_ relate to the lab we did this week?
+How do the themes of _Growing a Language_ relate to the lab we did this week?
 
 **Response**
 
@@ -26,7 +28,7 @@ For each quote, describe what it was about the quote that led you pick it.
 ---
 
 
-3. How would you know a well-designed language? What are the symptoms? How would
+How would you know a well-designed language? What are the symptoms? How would
 you know a poorly designed language? What are the symptoms?
 
 **Response**
@@ -36,7 +38,7 @@ you know a poorly designed language? What are the symptoms?
 ---
  
 
-4. In what way is an API a language? 
+In what way is an API a language? 
 
 **Response**
 
@@ -45,7 +47,7 @@ you know a poorly designed language? What are the symptoms?
 ---
 
 
-5. The comments on the Pavlus article seem to set up a conflict between
+The comments on the Pavlus article seem to set up a conflict between
 professional programmers and everyone else. What is the essence of this
 conflict? Do you sympathize more with the substance of the article's arguments
 or with the substance of the majority of the commenters' arguments? Do you
@@ -59,7 +61,7 @@ the commenters?
 ---
 
 
-6. How do implementation choices (e.g., as an interpreter/compiler or as an
+How do implementation choices (e.g., as an interpreter/compiler or as an
 internal DSL) affect the user experience? Can or should we always hide our
 implementation choices from users?
 
@@ -70,7 +72,7 @@ implementation choices from users?
 ---
 
 
-7. The Pavlus article mentions the researchers' comments that "natural-language 
+The Pavlus article mentions the researchers' comments that "natural-language 
 replacements for some of the more abstruse syntax". In other words, people found
 it easier to work with code that looks more like a human language (e.g.,
 English). Consider the following quote by William R. Cook, one of the creators
@@ -100,8 +102,7 @@ you do so? If not, why not?
 
 ---
 
-
-8. *Teamwork:* Briefly describe how you split up the work for this assignment.
+Briefly describe how you split up the work for this assignment.
 
 **Response**
 
