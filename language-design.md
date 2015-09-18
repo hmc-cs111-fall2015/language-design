@@ -42,6 +42,8 @@ you know a poorly designed language? What are the symptoms?
 
 ---
  
+**Question**
+
 
 In what way is an API a language? 
 
