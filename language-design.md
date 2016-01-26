@@ -86,7 +86,7 @@ The Pavlus article mentions the researchers' comments that people preferred
 "natural-language replacements for some of the more abstruse syntax". In other 
 words, people found it easier to work with code that looks more like a human language (e.g.,
 English). Consider the following quote by William R. Cook, one of the creators
-of JavaScript:
+of AppleScript:
 
 
 > The experiment in designing a language that resembled natural languages (English
